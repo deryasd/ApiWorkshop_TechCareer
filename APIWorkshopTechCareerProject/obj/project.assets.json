@@ -4726,11 +4726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj",
+      "projectUniqueName": "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj",
       "projectName": "APIWorkshopTechCareerProject",
-      "projectPath": "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj",
+      "projectPath": "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj",
       "packagesPath": "C:\\Users\\esind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject\\obj\\",
+      "outputPath": "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esind\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4748,11 +4748,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.Application\\APIWorkshopTechCareerProject.Application.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.Application\\APIWorkshopTechCareerProject.Application.csproj"
+            "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject.Application\\APIWorkshopTechCareerProject.Application.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject.Application\\APIWorkshopTechCareerProject.Application.csproj"
             },
-            "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.DataAccess\\APIWorkshopTechCareerProject.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.DataAccess\\APIWorkshopTechCareerProject.DataAccess.csproj"
+            "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject.DataAccess\\APIWorkshopTechCareerProject.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\esind\\Desktop\\Yeni klasör (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject.DataAccess\\APIWorkshopTechCareerProject.DataAccess.csproj"
             }
           }
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIWorkshopTechCareerProject.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3adcdb81609d612a90c02ff73d9f53a5f89b6c03")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIWorkshopTechCareerProject.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIWorkshopTechCareerProject.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

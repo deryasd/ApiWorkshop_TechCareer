@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\Yeni klas\u00F6r (2)\\ApiWorkshop_TechCareer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E61493-2B8B-4D15-B3EB-C47C83BC1770}|APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj|c:\\users\\esind\\desktop\\yeni klas\u00F6r (2)\\apiworkshop_techcareer\\apiworkshoptechcareerproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3E61493-2B8B-4D15-B3EB-C47C83BC1770}|APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj|solutionrelative:apiworkshoptechcareerproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E61493-2B8B-4D15-B3EB-C47C83BC1770}|APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj|c:\\users\\esind\\desktop\\yeni klas\u00F6r (2)\\apiworkshop_techcareer\\apiworkshoptechcareerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E61493-2B8B-4D15-B3EB-C47C83BC1770}|APIWorkshopTechCareerProject\\APIWorkshopTechCareerProject.csproj|solutionrelative:apiworkshoptechcareerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\Yeni klas\u00F6r (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\appsettings.json",
+              "RelativeDocumentMoniker": "APIWorkshopTechCareerProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\Yeni klas\u00F6r (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\appsettings.json",
+              "RelativeToolTip": "APIWorkshopTechCareerProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T23:20:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\Yeni klas\u00F6r (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\Program.cs",
+              "RelativeDocumentMoniker": "APIWorkshopTechCareerProject\\Program.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\Yeni klas\u00F6r (2)\\ApiWorkshop_TechCareer\\APIWorkshopTechCareerProject\\Program.cs",
+              "RelativeToolTip": "APIWorkshopTechCareerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:20:38.962Z",
+              "EditorCaption": ""
             }
           ]
         }
