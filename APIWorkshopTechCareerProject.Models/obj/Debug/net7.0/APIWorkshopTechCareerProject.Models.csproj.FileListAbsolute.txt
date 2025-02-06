@@ -1,0 +1,11 @@
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\bin\Debug\net7.0\APIWorkshopTechCareerProject.Models.deps.json
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\bin\Debug\net7.0\APIWorkshopTechCareerProject.Models.dll
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\bin\Debug\net7.0\APIWorkshopTechCareerProject.Models.pdb
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\APIWorkshopTechCareerProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\APIWorkshopTechCareerProject.Models.AssemblyInfoInputs.cache
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\APIWorkshopTechCareerProject.Models.AssemblyInfo.cs
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\APIWorkshopTechCareerProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\APIWorkshopTechCareerProject.Models.dll
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\refint\APIWorkshopTechCareerProject.Models.dll
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\APIWorkshopTechCareerProject.Models.pdb
+C:\Users\esind\Desktop\ApiWorkshop_TechCareer\APIWorkshopTechCareerProject\APIWorkshopTechCareerProject.Models\obj\Debug\net7.0\ref\APIWorkshopTechCareerProject.Models.dll

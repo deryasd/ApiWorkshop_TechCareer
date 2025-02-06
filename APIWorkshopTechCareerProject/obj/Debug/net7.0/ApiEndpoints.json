@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "APIWorkshopTechCareerProject.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "APIWorkshopTechCareerProject.Application.Request.CreateUserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIWorkshopTechCareerProject.Controllers.UserController",
+    "Method": "GetUserInformation",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIWorkshopTechCareerProject.Controllers.UserController",
+    "Method": "SignIn",
+    "RelativePath": "api/User/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "APIWorkshopTechCareerProject.Application.Request.SignInRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
